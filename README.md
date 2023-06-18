@@ -1,16 +1,8 @@
 
 # TikTok Clone
 
-Projeto desenvolvido durante o webinar Fullstack da EBAC
+Projeto desenvolvido durante o webinar Fullstack da EBAC com o objetivo de criar um clone do Tik Tok.
 
-## Available Scripts
+## Tecnologias utilizadas
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+[![Techs](https://skills.thijs.gg/icons?i=html,css,js,react,materialui,firebase)](https://skills.thijs.gg)
